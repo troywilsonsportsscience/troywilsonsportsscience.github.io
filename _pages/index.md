@@ -3,6 +3,7 @@ layout: splash
 title: "Applied sport science, strength & conditioning, and data analytics."
 permalink: /
 author_profile: true
+output: true
 
 header:
   overlay_color: "#0b1120"
