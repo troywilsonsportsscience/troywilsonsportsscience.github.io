@@ -60,7 +60,11 @@ author:
   name   : "Troy Wilson"
   avatar : "/assets/images/hero-profile.jpg"
   bio    : "Something witty or at least clever."
+  location: "Calgary, Canada"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:youremail@example.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://troywilsonsportsscience.github.io/"
