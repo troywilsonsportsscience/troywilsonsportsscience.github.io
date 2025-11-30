@@ -91,7 +91,7 @@ footer:
       url: "https://www.linkedin.com/in/troywilson13/"
 
 defaults:
-  #All regualr pages _posts
+  #All regular pages _posts
   - scope:
       path: ""
       type: posts
@@ -104,7 +104,7 @@ defaults:
       related: true
   #Blog posts _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: posts
     values:
       layout: single
