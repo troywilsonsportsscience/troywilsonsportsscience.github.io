@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Troy Wilson | Sports Science
-name; Troy Wilson
+name: Troy Wilson
 email:
 description: "Applied sport science, strength & conditioning, and data analytics."
 url: "https://troywilsonsportsscience.github.io"
