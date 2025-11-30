@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Troy Wilson"
-  avatar : "/assets/images/hero-profile.jpg"
+  avatar : "/assets/img/hero-profile.jpg"
   bio    : "Something witty or at least clever."
   location: "Calgary, Canada"
   links:
