@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Troy Wilson | Sports Science
+title: Troy Wilson l Sports Science
 permalink: /
 header:
   overlay_color: "#0b1120"
