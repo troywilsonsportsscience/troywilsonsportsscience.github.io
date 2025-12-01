@@ -4,14 +4,14 @@ title: Troy Wilson l Sports Science
 permalink: /
 header:
   overlay_color: "#0b1120"
-  overlay_filter: "0.6"
+  overlay_filter: "0.65"
   overlay_image: "/assets/images/hero-banner2.png"
   actions:
     - label: "View Services"
       url: "/services/"
     - label: "View Projects"
       url: "/projects/"
-excerpt: "Bridging applied sport science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
+excerpt: "Bridging applied sports science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
 excerpt_type: "markdown"
 classes: "lead"
 feature_row:
