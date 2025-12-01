@@ -25,10 +25,6 @@ search: true
 
 sass:
   style: compressed
-body {
-  border: 5px solid red !important;
-}
-
 
 # Build settings
 markdown: kramdown
