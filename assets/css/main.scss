@@ -7,7 +7,7 @@
 
 /* Reduce splash hero height and text size */
 .page__hero--overlay {
-  padding: 2rem 0 !important;   /* default ~6rem top/bottom */
+  padding: 1rem 0 !important;   /* default ~6rem top/bottom */
 }
 
 .page__title {
@@ -20,5 +20,5 @@
 }
 
 .page__hero--overlay + .page__content {
-  margin-top: 1.5rem !important; /* less gap under hero */
+  margin-top: 1rem !important; /* less gap under hero */
 }
