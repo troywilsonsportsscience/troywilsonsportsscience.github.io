@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#0b1120"
   overlay_filter: "0.6"
-  overlay_image: "/assets/images/hero-banner.jpg"
+  overlay_image: "/assets/images/hero-banner2.png"
   actions:
     - label: "View Services"
       url: "/services/"
