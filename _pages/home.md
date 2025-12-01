@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:
+title: Troy Wilson | Applied sport science, strength & conditioning, and data analytics.
 permalink: /
 header:
   overlay_color: "#0b1120"
