@@ -6,7 +6,7 @@ header:
   overlay_color: "#0b1120"
   overlay_filter: "0.6"
   overlay_image: "/assets/images/hero-banner.jpg"
-  overlay_title: "Applied sport science, strength & conditioning, and data analytics."
+  title: "Applied sport science, strength & conditioning, and data analytics."
   actions:
     - label: "View Services"
       url: "/services/"
