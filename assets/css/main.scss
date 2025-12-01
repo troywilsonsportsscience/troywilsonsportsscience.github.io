@@ -4,20 +4,21 @@
 @import "minimal-mistakes/skins/neon";
 @import "minimal-mistakes";
 
-/* Reduce splash hero height and text size */
+/* Reduce splash hero height */
 .page__hero--overlay {
-  padding: 2rem 0 !important;   /* default ~6rem top/bottom */
+  padding: 2rem 0 !important;
 }
 
-.page__title {
-  font-size: 2rem !important;   /* smaller headline */
+/* Smaller headline */
+.page__hero--overlay .page__title {
+  font-size: 2rem !important;
 }
 
-.page__lead {
-  font-size: 1.1rem !important; /* tighter excerpt */
-  max-width: 500px;
+/* Control excerpt width and size */
+.page__hero--overlay .page__lead {
+  font-size: 1.1rem !important;
+  max-width: 600px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-.page__hero--overlay + .page__content {
-  margin-top: 1rem !important; /* less gap under hero */
-}
