@@ -91,7 +91,7 @@ footer:
       url: "https://www.linkedin.com/in/troywilson13/"
 
 defaults:
-  #All regular pages _posts
+  # Blog posts
   - scope:
       path: ""
       type: posts
@@ -102,13 +102,39 @@ defaults:
       comments: true
       share: true
       related: true
-  #Blog posts _pages
+
+  # Regular pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
+  # Case Studies
+  - scope:
+      path: ""
+      type: case-studies
+    values:
+      layout: single
+      author_profile: true
+
+  # Resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: true
+      
+collections:
+  case-studies:
+    output: true
+    permalink: /case-studies/:title/
+  resources:
+    output: true
+    permalink: /resources/:title/
+
 
 category_archive:
   type: liquid
