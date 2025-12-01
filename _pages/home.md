@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Applied sport science, strength & conditioning, and data analytics."
+title:
 permalink: /
 header:
   overlay_color: "#0b1120"
