@@ -1,0 +1,24 @@
+---
+# Only front matter
+---
+
+@import "minimal-mistakes/skins/neon";
+@import "minimal-mistakes";
+
+/* Reduce splash hero height and text size */
+.page__hero--overlay {
+  padding: 2rem 0 !important;   /* default ~6rem top/bottom */
+}
+
+.page__title {
+  font-size: 2rem !important;   /* smaller headline */
+}
+
+.page__lead {
+  font-size: 1.1rem !important; /* tighter excerpt */
+  max-width: 700px;
+}
+
+.page__hero--overlay + .page__content {
+  margin-top: 1.5rem !important; /* less gap under hero */
+}
