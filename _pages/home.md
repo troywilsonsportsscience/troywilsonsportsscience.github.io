@@ -15,21 +15,21 @@ excerpt: "Bridging applied sport science, strength and conditioning, and data an
 excerpt_type: "markdown"
 classes: "lead"
 feature_row:
-  - image_path: /assets/images/performance-services.jpg
+  - image_path: /assets/images/performance-services.png
     alt: "Performance testing and monitoring"
     title: "Performance Services"
     excerpt: "Testing, monitoring, and strength & conditioning support for individuals and teams."
     url: "/services/"
     btn_label: "View services"
     btn_class: "btn--primary"
-  - image_path: /assets/images/sport-science-projects.jpg
+  - image_path: /assets/images/sport-science-projects.png
     alt: "Dashboards and analytics"
     title: "Sport Science Projects"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
     url: "/projects/"
     btn_label: "See projects"
     btn_class: "btn--primary"
-  - image_path: /assets/images/data-tools.jpg
+  - image_path: /assets/images/data-tools.png
     alt: "Data tools and resources"
     title: "Resources & Tools"
     excerpt: "Templates, calculators, and resources for coaches and practitioners."
