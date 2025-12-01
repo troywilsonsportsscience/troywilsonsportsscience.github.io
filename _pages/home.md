@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/sport-science-projects.png
     alt: "Dashboards and analytics"
-    title: "Sport Science Projects"
+    title: "Sports Science Projects"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
     url: "/projects/"
     btn_label: "See projects"
