@@ -2,8 +2,6 @@
 layout: splash
 title: "Applied sport science, strength & conditioning, and data analytics."
 permalink: /
-author_profile: true
-
 header:
   overlay_color: "#0b1120"
   overlay_filter: "0.6"
@@ -13,9 +11,9 @@ header:
       url: "/services/"
     - label: "View Projects"
       url: "/projects/"
-
 excerpt: "Bridging applied sport science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
-
+excerpt_type: "markdown"
+classes: "lead"
 feature_row:
   - image_path: /assets/images/performance-services.jpg
     alt: "Performance testing and monitoring"
@@ -39,3 +37,5 @@ feature_row:
     btn_label: "View resources"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="feature_row" %}
