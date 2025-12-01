@@ -22,3 +22,7 @@
 .page__hero--overlay + .page__content {
   margin-top: 1rem !important; /* less gap under hero */
 }
+
+body {
+  border: 5px solid red !important;
+}
