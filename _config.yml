@@ -23,6 +23,13 @@ instagram_username: troyw.sc
 minimal_mistakes_skin: neon
 search: true
 
+sass:
+  style: compressed
+body {
+  border: 5px solid red !important;
+}
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
