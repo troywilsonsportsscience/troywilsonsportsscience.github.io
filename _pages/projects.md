@@ -11,7 +11,7 @@ These are projects I've completed in applied sport science, strength and conditi
 ---
 
 ## Case Studies  
-Examples of exploratory, unpaid, or R&D-style work.
+Cases studies  will be added as I formalize them.
 
 {% assign cs = site.case-studies | sort: "title" %}
 {% include feature_row id="case_studies" %}
