@@ -24,7 +24,12 @@ minimal_mistakes_skin: neon
 search: true
 
 sass:
+  sass_dir: _sass
   style: compressed
+
+include:
+  - assets/css
+
 
 # Build settings
 markdown: kramdown
