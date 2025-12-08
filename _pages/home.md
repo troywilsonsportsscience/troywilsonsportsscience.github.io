@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Troy Wilson l Sport Science"
+title: Troy Wilson l Sports Science
 permalink: /
 
 header:
@@ -13,8 +13,8 @@ header:
     - label: "View Projects"
       url: "/projects/"
 
-intro:
-  - excerpt: "Bridging applied sports science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
+excerpt: "Bridging applied sports science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
+excerpt_type: "markdown"
 
 feature_row:
   - image_path: /assets/images/performance-services.png
@@ -41,7 +41,5 @@ feature_row:
     btn_label: "View resources"
     btn_class: "btn--primary"
 ---
-
-{% include intro %}
 
 {% include feature_row id="feature_row" %}
