@@ -10,9 +10,12 @@
 }
 
 .page__hero--overlay .page__lead {
-  font-size: 1.4rem !important;
-  max-width: 760px !important;
-  margin: 1.2rem auto !important;
+  max-width: 100% !important;   /* remove width limit */
+  width: 100% !important;       /* force full width */
+  text-align: center !important;
+  padding: 0 2rem !important;   /* optional: prevents edge-to-edge touching */
+  font-size: 1.6rem !important; /* slightly larger for a banner look */
+  line-height: 1.3 !important;
 }
 
 .page__hero--overlay .btn {
