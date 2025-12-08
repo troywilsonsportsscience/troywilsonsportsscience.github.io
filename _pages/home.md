@@ -41,4 +41,7 @@ feature_row:
     btn_label: "View resources"
     btn_class: "btn--primary"
 ---
+
+{% include intro %}
+
 {% include feature_row id="feature_row" %}
