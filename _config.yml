@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Troy Wilson"
   avatar : "/assets/images/hero-profile.jpg"
-  bio    : "Something witty or at least clever."
+  bio    : "Delivering testing, analytics, and athlete-monitoring solutions that help coaches make faster, clearer decisions. High-performance methods translated into accessible tools for teams and individuals."
   location: "Calgary, Canada"
   links:
     - label: "Email"
