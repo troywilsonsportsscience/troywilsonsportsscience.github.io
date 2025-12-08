@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "minimal-mistakes/skins/neon";
 @import "minimal-mistakes";
 
@@ -9,16 +8,21 @@
   padding: 2rem 0 !important;
 }
 
-/* Smaller headline */
+/* HERO TITLE — increase size */
 .page__hero--overlay .page__title {
-  font-size: 2rem !important;
+  font-size: 2.8rem !important;
+  line-height: 1.2 !important;
 }
 
-/* Control excerpt width and size */
+/* HERO EXCERPT — increase size + center + improve readability */
 .page__hero--overlay .page__lead {
-  font-size: 1.1rem !important;
-  max-width: 600px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  font-size: 1.4rem !important;
+  max-width: 760px !important;
+  margin: 1.2rem auto !important;
 }
 
+/* HERO BUTTONS — improve visibility */
+.page__hero--overlay .btn {
+  font-size: 1.05rem !important;
+  padding: 0.7rem 1.5rem !important;
+}
