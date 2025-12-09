@@ -10,6 +10,8 @@ header:
   actions:
     - label: "View Services"
       url: "/services/"
+    - label: "Contact"
+      url: "/contact/"
 
 excerpt: "Bridging applied sports science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
 excerpt_type: "markdown"
