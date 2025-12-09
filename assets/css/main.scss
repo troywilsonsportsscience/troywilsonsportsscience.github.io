@@ -29,32 +29,32 @@
   padding: 1.5rem 0;
 }
 
-/* OPTION 2: Subtle red gradient at bottom of hero */
-.page__hero {
+/* FINAL OPTION 2: Subtle red gradient on hero */
+.page__hero--overlay {
   position: relative;
-  overflow: hidden; /* ensure gradient stays clipped inside hero */
+  overflow: hidden;
 }
 
-.page__hero::after {
+.page__hero--overlay::after {
   content: "";
   position: absolute;
-  left: 0;
   bottom: 0;
+  left: 0;
   width: 100%;
-  height: 28%; /* adjust as needed */
+  height: 28%;
   pointer-events: none;
-  z-index: 1;
+  z-index: 2; /* must be above inline background-image */
 
   background: linear-gradient(
     to top,
-    rgba(255, 0, 0, 0.22),
+    rgba(255, 0, 0, 0.28),
     rgba(255, 0, 0, 0)
   );
 }
 
-/* Bring hero text ABOVE the gradient */
-.page__hero .wrap {
+/* hero text must sit ABOVE pseudo-element */
+.page__hero--overlay .wrapper,
+.page__hero--overlay .wrap {
   position: relative;
-  z-index: 2;
+  z-index: 3;
 }
-
