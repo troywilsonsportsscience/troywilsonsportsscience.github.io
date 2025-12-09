@@ -30,22 +30,22 @@
 }
 
 /* OPTION 2: Subtle red gradient at bottom of hero */
-.page__hero--overlay {
+.page__hero {
   position: relative;
 }
 
-.page__hero--overlay::after {
+.page__hero::after {
   content: "";
   position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 25%; /* adjust gradient height */
+  height: 25%;
   pointer-events: none;
 
   background: linear-gradient(
     to top,
-    rgba(255, 0, 0, 0.22),  /* subtle red at bottom */
-    rgba(255, 0, 0, 0)      /* fades out */
+    rgba(255, 0, 0, 0.22),
+    rgba(255, 0, 0, 0)
   );
 }
