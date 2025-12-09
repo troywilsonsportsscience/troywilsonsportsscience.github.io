@@ -37,3 +37,8 @@ This site organizes my:
 - Resources and tools  
 
 All in one place for coaches, athletes, and organizations seeking structured, applied support.
+
+## Work With Me
+If you need performance testing, applied sport science support, or data systems built for your environment, you can reach out here:
+
+[Contact](/contact/)
