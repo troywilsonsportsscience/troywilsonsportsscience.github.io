@@ -28,3 +28,19 @@
   text-align: center;
   padding: 1.5rem 0;
 }
+
+/* OPTION 1: Red line under hero excerpt */
+.page__hero--overlay .page__lead {
+  position: relative;
+  padding-bottom: 1rem !important;
+}
+
+.page__hero--overlay .page__lead::after {
+  content: "";
+  display: block;
+  width: 80px; /* adjust if needed */
+  height: 3px;
+  background-color: #ff2a2a; /* your red accent */
+  margin: 0.75rem auto 0 auto;
+  border-radius: 2px;
+}
