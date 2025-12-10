@@ -17,7 +17,7 @@ excerpt: "Bridging applied sports science, strength and conditioning, and data a
 excerpt_type: "markdown"
 
 feature_row:
-  - image_path: /assets/images/performance-services.png
+  - image_path: /assets/images/performance-services-2.png
     alt: "Performance testing and monitoring"
     title: "Performance Services"
     excerpt: "Testing, monitoring, and strength & conditioning support for individuals and teams."
@@ -33,7 +33,7 @@ feature_row:
     btn_label: "See projects"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/data-tools.png
+  - image_path: /assets/images/data-tools-2.png
     alt: "Data tools and resources"
     title: "Resources & Tools"
     excerpt: "Templates, calculators, and resources for coaches and practitioners."
