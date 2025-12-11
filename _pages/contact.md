@@ -5,9 +5,16 @@ layout: single
 author_profile: true
 ---
 
-## Contact Me
+Use the form below to get in touch regarding:
 
-If you want to discuss projects, services, consulting, or have any questions, use the form below.
+- Performance testing or monitoring  
+- Strength & conditioning support  
+- Sport science analytics or dashboard projects  
+- Tool development and applied systems  
+
+If your inquiry doesn’t fit one of these categories, submit a brief description, and I’ll confirm whether it’s a match.
+
+I typically respond within a few days.
 
 <form action="https://formspree.io/f/mkgldqev" method="POST">
 
