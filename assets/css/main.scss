@@ -58,3 +58,35 @@
   position: relative;
   z-index: 3;
 }
+
+/* ---------------------------------------------
+   Balanced spacing for Projects page
+   --------------------------------------------- */
+
+/* Space above each project section */
+.page__content h3 {
+  margin-top: 2.2rem !important;
+}
+
+/* Space below each project section */
+.page__content h3 + p,
+.page__content h3 + div {
+  margin-top: 0.6rem !important;
+}
+
+/* Spacing between Purpose / Approach / Outcome blocks */
+.page__content strong {
+  display: block;
+  margin-top: 0.9rem !important;
+  margin-bottom: 0.1rem !important;
+}
+
+/* Increase line height slightly for readability */
+.page__content p {
+  line-height: 1.55 !important;
+}
+
+/* Add light spacing between project sections */
+.page__content hr {
+  margin: 2.4rem 0 !important;
+}
