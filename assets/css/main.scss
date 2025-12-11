@@ -96,3 +96,59 @@
 .page__content hr + h3 {
   margin-top: 2.6rem !important;
 }
+
+/* ------------------------------------------------------
+   GLOBAL VISUAL CONSISTENCY — TYPOGRAPHY + SPACING
+   Applies to all standard content pages
+--------------------------------------------------------- */
+
+/* Headings consistency (H2/H3 used on most pages) */
+.page__content h2 {
+  margin-top: 2.6rem !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.page__content h3 {
+  margin-top: 2.2rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+/* Paragraph consistency */
+.page__content p {
+  font-size: 1.05rem !important;
+  line-height: 1.55 !important;
+  margin-bottom: 1.2rem !important;
+}
+
+/* Bullet list spacing */
+.page__content ul,
+.page__content ol {
+  font-size: 1.05rem !important;
+  line-height: 1.55 !important;
+  margin-bottom: 1.4rem !important;
+  padding-left: 1.25rem !important;
+}
+
+.page__content li {
+  margin-bottom: 0.4rem !important;
+}
+
+/* HR spacing (used on Projects + Services) */
+.page__content hr {
+  margin: 2.4rem 0 !important;
+}
+
+/* Tighten space between heading and first paragraph/list */
+.page__content h2 + p,
+.page__content h3 + p,
+.page__content h2 + ul,
+.page__content h3 + ul {
+  margin-top: 0.4rem !important;
+}
+
+/* Consistency for strong labels (Purpose, Approach, Outcome) */
+.page__content strong {
+  display: block;
+  margin-top: 0.9rem !important;
+  margin-bottom: 0.1rem !important;
+}
