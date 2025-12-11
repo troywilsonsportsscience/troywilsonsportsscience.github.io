@@ -43,3 +43,9 @@ feature_row:
 ---
 
 {% include feature_row id="feature_row" %}
+## How Services Are Delivered
+Support is offered through a simple three-tier structure designed to match different levels of need:
+
+- **Essentials** – one-off testing, reports, and tools  
+- **Applied** – ongoing support with regular monitoring  
+- **High-Performance** – fully custom systems and analytics  
