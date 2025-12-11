@@ -25,11 +25,11 @@ A daily monitoring system used to track athlete readiness, wellness trends, and 
 
 ---
 
-### Bobsleigh Push Performance Analysis
-Analysis tools and workflows supporting push performance evaluation in elite bobsleigh environments.
+### Bobsleigh and Skeleton Performance Analysis
+Analysis tools and workflows for evaluating push performance in elite bobsleigh environments.
 
 **Purpose:** Identify strengths, weaknesses, and performance trends across push athletes and crews.  
-**Approach:** Extraction of IBSF competition data, calculation of push totals and best runs, modeling of athlete profiles.  
+**Approach:** Extraction of IBSF competition data, calculation of push totals and best runs, and modelling of athlete profiles.  
 **Outcome:** Improved selection clarity, targeted training priorities, and evidence-informed performance reviews.
 
 ---
