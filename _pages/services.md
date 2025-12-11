@@ -5,35 +5,64 @@ layout: single
 author_profile: true
 ---
 
-## Core Service Categories
+## Core Services
 
 ### Performance Testing & Monitoring
-Clear, objective testing for individuals and teams.  
-**Includes:** CMJ/IMTP profiling, readiness checks, performance tracking.
+Applied testing solutions for individuals and teams:
+- Strength, power, and speed assessments  
+- Jump, sprint, and force analysis  
+- Readiness and monitoring systems  
+- Reporting that supports programming and planning  
+
+---
 
 ### Strength & Conditioning Support
-Focused physical preparation for developing high-performance athletes.  
-**Includes:** Programs, remote coaching, integrated strength–speed systems.
+Training support built for long-term development:
+- Program design and progression frameworks  
+- Technical and physical development priorities  
+- Performance tracking and review  
+- Integrated testing + training cycles  
+
+---
 
 ### Sport Science Projects & Analytics
-Custom tools and analytics for better decision-making.  
-**Includes:** Dashboards, KPIs, automated reporting workflows.
+Custom analytic work for high-performance environments:
+- KPI development and evaluation  
+- Dashboard design and data workflows  
+- System building for organizations  
+- Process audits and performance insights  
 
 ---
 
-## Service Tiers
+## How Support Is Delivered
 
-|                     | **Essentials**                        | **Applied**                            | **High-Performance**                        |
-|---------------------|----------------------------------------|-----------------------------------------|----------------------------------------------|
-| **What’s included** | One-off testing, reports, templates    | Monthly monitoring and support          | Fully custom systems and integrated tools     |
-| **Support level**   | Single session or fixed-scope          | Ongoing collaboration                   | High-frequency, tailored partnership          |
-| **Who it’s for**    | Individuals or small teams             | Teams needing structured guidance       | Organizations requiring high-performance systems |
+Support is structured into three tiers:
+
+### **Essentials**
+For coaches or athletes needing one-off testing or tools.
+- Single testing sessions  
+- Reports and visualizations  
+- Ready-to-use templates and resources  
+
+---
+
+### **Applied**
+For those requiring ongoing support.
+- Regular monitoring  
+- Programming consultation  
+- Progress reviews and adjustments  
 
 ---
 
-**Pricing is based on scope and service tier.**  
-**Request a consultation for an exact quote.**
-
-[Start a Project](/contact/){: .btn .btn--primary}
+### **High-Performance**
+For environments requiring fully custom systems.
+- Integrated testing models  
+- Custom dashboards and analytics  
+- Organization-level performance frameworks  
 
 ---
+
+## Next Step
+If you’re unsure which service or tier fits best, reach out and we can determine what matches your environment.
+
+[Contact](/contact/)
