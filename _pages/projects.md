@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Projects
-
 ### Athlete Testing Dashboards
 Dashboards built to streamline analysis of CMJ, IMTP, sprint testing, and other performance markers.
 
