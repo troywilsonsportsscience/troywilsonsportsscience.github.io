@@ -85,7 +85,7 @@ For environments requiring fully custom systems.
 
 ---
 
-## Next Step
-If you’re unsure which service or tier fits best, reach out and we can determine what matches your environment.
+## Ready to get started?
+If you want support with testing, training, or performance planning, reach out to discuss what you need.
 
 [Contact](/contact/)
