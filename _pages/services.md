@@ -6,13 +6,22 @@ author_profile: true
 ---
 
 ## Core Services
-
 ### Performance Testing & Monitoring
-Applied testing solutions for individuals and teams:
-- Strength, power, and speed assessments  
-- Jump, sprint, and force analysis  
-- Readiness and monitoring systems  
-- Reporting that supports programming and planning  
+
+Clear, repeatable tests that show how prepared an athlete is and how their performance is changing over time.
+
+**Who this helps**
+- **For Coaches:** Shows who is ready to train hard, who needs adjustments, and where strengths and weaknesses are.
+- **For Athletes:** Shows what is improving, what needs work, and gives simple targets to guide training.
+- **For Organizations:** Ensures all athletes are tested the same way, creates clean records, and supports long-term planning.
+
+**What you get**
+- Testing for jumps, sprints, strength, and mobility.
+- Simple reports that highlight key changes and trends.
+- Weekly or monthly monitoring options.
+- Easy use with your existing spreadsheets or systems.
+
+{% include services-tiers.html %}
 
 ---
 
