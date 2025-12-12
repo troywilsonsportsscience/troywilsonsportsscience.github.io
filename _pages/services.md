@@ -20,7 +20,7 @@ Clear, repeatable tests that show how prepared an athlete is and how their perfo
 - Simple reports that highlight key changes and trends.
 - Weekly or monthly monitoring options.
 - Easy use with your existing spreadsheets or systems.
-- 
+  
 ---
 
 ### Strength & Conditioning Support
@@ -41,11 +41,19 @@ Personalized training that builds strength, power, and overall physical preparat
 ---
 
 ### Sport Science Projects & Analytics
-Custom analytic work for high-performance environments:
-- KPI development and evaluation  
-- Dashboard design and data workflows  
-- System building for organizations  
-- Process audits and performance insights  
+
+Turning performance data into clear answers that support better coaching and planning.
+
+**Who this helps**
+- **For Coaches:** Turns testing and game data into simple takeaways you can act on, without needing to “do the stats” yourself.
+- **For Athletes:** Shows how changes in training, technique, or recovery are affecting performance over time.
+- **For Organizations:** Supports bigger questions such as talent ID, return-to-play decisions, and long-term planning.
+
+**What you get**
+- One-time or seasonal projects built around your specific questions.
+- Clear summaries instead of raw spreadsheets: key findings, simple visuals, and clear recommendations.
+- Help setting up practical tools (dashboards, trackers, reports) your staff can keep using.
+- Support with making testing plans, tracking systems, or decision frameworks that fit your environment.  
 
 ---
 
