@@ -9,7 +9,6 @@ author_profile: true
 
 I provide practical, easy-to-use sport science and strength training support for athletes, coaches, and organizations. Each service is built to give **clear information, simple decisions, and dependable progress** across seasons.
 
-
 ### Performance Testing & Monitoring
 
 Clear, repeatable tests that show how prepared an athlete is and how their performance is changing over time.
