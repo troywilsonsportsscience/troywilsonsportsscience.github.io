@@ -7,7 +7,7 @@ author_profile: true
 
 ## Core Services
 
-I provide practical, easy-to-use sport science and strength training support for athletes, coaches, and organizations. Each service is built to give **clear information, simple decisions, and dependable progress** across seasons.
+I provide practical, easy-to-use sport science and strength training support for athletes, coaches, and organizations. Each service is built to give clear information, simple decisions, and dependable progress across seasons.
 
 ### Performance Testing & Monitoring
 
