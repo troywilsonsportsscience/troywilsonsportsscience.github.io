@@ -10,7 +10,7 @@ I work across applied sport science, strength and conditioning, and data analyti
 
 ## Who I Work With
 I support environments that need clear, reliable information to guide training and performance. This includes:
-- High-performance and national-team winter sport programs  
+- High-performance, provincial, and national-team sport programs  
 - Strength & conditioning facilities and athlete development systems  
 - Team sport organizations  
 - Individual athletes requiring structured testing and monitoring  
