@@ -20,17 +20,23 @@ Clear, repeatable tests that show how prepared an athlete is and how their perfo
 - Simple reports that highlight key changes and trends.
 - Weekly or monthly monitoring options.
 - Easy use with your existing spreadsheets or systems.
-
-{% include services-tiers.html %}
-
+- 
 ---
 
 ### Strength & Conditioning Support
-Training support built for long-term development:
-- Program design and progression frameworks  
-- Technical and physical development priorities  
-- Performance tracking and review  
-- Integrated testing + training cycles  
+
+Personalized training that builds strength, power, and overall physical preparation for sport.
+
+**Who this helps**
+- **For Coaches:** Provides structured training plans for athletes, clear progress updates, and support in managing workloads through the season.
+- **For Athletes:** Delivers programs matched to your sport, goals, and schedule, with steady progress you can see and feel.
+- **For Organizations:** Creates consistent training standards across groups and supports long-term athlete development.
+
+**What you get**
+- Customized strength and conditioning programs.
+- Clear training targets for each phase of the season.
+- Regular check-ins and adjustments based on progress.
+- Support for return-to-train and general physical preparation needs.
 
 ---
 
