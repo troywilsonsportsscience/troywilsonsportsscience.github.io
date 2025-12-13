@@ -70,9 +70,12 @@ author:
   bio    : "Delivering testing, analytics, and athlete-monitoring solutions that help coaches make faster, clearer decisions. High-performance methods translated into accessible tools for teams and individuals."
   location: "Calgary, Canada"
   links:
+    - label: "Blog"
+      icon: "fa-solid fa-blog"
+      url: "https://troywilsonsportsscience.github.io/blog/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:youremail@example.com"
+      url: "troywilson13@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/troywilsonsportsscience"
