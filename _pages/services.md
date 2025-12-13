@@ -29,7 +29,7 @@ Clear, repeatable tests that show how prepared an athlete is and how their perfo
 ### Strength & Conditioning Support
 
 Personalized training that builds strength, power, and overall physical preparation for sport.
-**This service answers one question:** *what should training look like right now to move performance forward safely?*
+**This service answers one question:** *What should training look like right now to move performance forward safely?*
 
 **Who this helps**
 - **For Coaches:** Provides structured training plans for athletes, clear progress updates, and support in managing workloads through the season.
@@ -46,7 +46,7 @@ Personalized training that builds strength, power, and overall physical preparat
 
 ### Sport Science Projects & Analytics
 
-Turning performance data into clear answers that support better coaching and planning. These projects are **designed to answer** specific performance or planning questions, **not to generate more data.**
+Turning performance data into clear answers that support better coaching and planning. These projects are designed to answer specific performance or planning questions, not to generate more data.
 
 **Who this helps**
 - **For Coaches:** Turns testing and game data into simple takeaways you can act on, without needing to “do the stats” yourself.
@@ -65,21 +65,24 @@ Turning performance data into clear answers that support better coaching and pla
 
 Support is structured into three tiers:
 
-### **Essentials** - *One-off clarity*
+### **Essentials** 
+- ***One-off clarity***
 - Single testing or assessment session.  
 - Clear report with key findings and next-step recommendations. 
 - Ready-to-use templates or tools where relevant.  
 
 ---
 
-### **Applied** - *Ongoing guidance across a training phase or season*
+### **Applied** 
+- ***Ongoing guidance across a training phase or season***
 - Regular monitoring and check-ins.  
 - Training or testing adjustments based on trends.  
 - Periodic progress reviews tied to performance goals.
 
 ---
 
-### **High-Performance** - *Fully integrated systems for teams or programs*
+### **High-Performance** 
+- ***Fully integrated systems for teams or programs***
 - Custom testing and monitoring models.  
 - Dashboards and analytics aligned to staff workflows.  
 - Organization-level frameworks for consistency and planning. 
