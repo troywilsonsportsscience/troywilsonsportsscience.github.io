@@ -4,9 +4,6 @@ permalink: /services/
 layout: single
 author_profile: true
 ---
-
-## Core Services
-
 I help athletes, coaches, and organizations make clear training and performance decisions using testing, monitoring, and structured strength & conditioning support.
 
 ### Performance Testing & Monitoring
@@ -61,7 +58,7 @@ Turning performance data into clear answers that support better coaching and pla
 
 ---
 
-## How Support Is Delivered
+## Levels of Support
 
 Support is structured into three tiers:
 
