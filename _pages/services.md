@@ -3,9 +3,6 @@ title: "Services"
 permalink: /services/
 layout: single
 author_profile: true
-toc: true
-toc_label: "On this page"
-toc_icon: "list"
 ---
 
 ## Core Services
