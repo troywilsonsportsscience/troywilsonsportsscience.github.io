@@ -7,7 +7,7 @@ author_profile: true
 
 ## Core Services
 
-I provide practical, easy-to-use sport science and strength training support for athletes, coaches, and organizations. Each service is built to give clear information, simple decisions, and dependable progress across seasons.
+I help athletes, coaches, and organizations make clear training and performance decisions using testing, monitoring, and structured strength & conditioning support.
 
 ### Performance Testing & Monitoring
 
@@ -19,16 +19,17 @@ Clear, repeatable tests that show how prepared an athlete is and how their perfo
 - **For Organizations:** Ensures all athletes are tested the same way, creates clean records, and supports long-term planning.
 
 **What you get**
-- Testing for jumps, sprints, strength, and mobility.
-- Simple reports that highlight key changes and trends.
-- Weekly or monthly monitoring options.
-- Easy use with your existing spreadsheets or systems.
+- A standardized testing session with clear indicators of readiness and performance.
+- A concise report showing current status, recent changes, and priority focus areas.
+- Trend tracking across weeks or months to guide training adjustments.
+- Results delivered in simple tables and visuals that can be interpreted immediately by coaches and athletes.
   
 ---
 
 ### Strength & Conditioning Support
 
 Personalized training that builds strength, power, and overall physical preparation for sport.
+**This service answers one question:** *what should training look like right now to move performance forward safely?*
 
 **Who this helps**
 - **For Coaches:** Provides structured training plans for athletes, clear progress updates, and support in managing workloads through the season.
@@ -36,16 +37,16 @@ Personalized training that builds strength, power, and overall physical preparat
 - **For Organizations:** Creates consistent training standards across groups and supports long-term athlete development.
 
 **What you get**
-- Customized strength and conditioning programs.
-- Clear training targets for each phase of the season.
-- Regular check-ins and adjustments based on progress.
-- Support for return-to-train and general physical preparation needs.
+- A structured training plan aligned to sport demands and the current season phase.
+- Clear weekly priorities and progression targets.
+- Ongoing adjustments informed by performance and readiness indicators.
+- Return-to-training structure when needed, with defined checkpoints.
 
 ---
 
 ### Sport Science Projects & Analytics
 
-Turning performance data into clear answers that support better coaching and planning.
+Turning performance data into clear answers that support better coaching and planning. These projects are **designed to answer** specific performance or planning questions, **not to generate more data.**
 
 **Who this helps**
 - **For Coaches:** Turns testing and game data into simple takeaways you can act on, without needing to “do the stats” yourself.
@@ -53,10 +54,10 @@ Turning performance data into clear answers that support better coaching and pla
 - **For Organizations:** Supports bigger questions such as talent ID, return-to-play decisions, and long-term planning.
 
 **What you get**
-- One-time or seasonal projects built around your specific questions.
-- Clear summaries instead of raw spreadsheets: key findings, simple visuals, and clear recommendations.
-- Help setting up practical tools (dashboards, trackers, reports) your staff can keep using.
-- Support with making testing plans, tracking systems, or decision frameworks that fit your environment.  
+- A clearly defined performance or planning question the project is built around.
+- A short written summary of findings, implications, and recommendations.
+- Simple visuals or tools that remain usable after the project ends.
+- Optional setup of dashboards or tracking systems aligned to your environment.  
 
 ---
 
@@ -65,7 +66,7 @@ Turning performance data into clear answers that support better coaching and pla
 Support is structured into three tiers:
 
 ### **Essentials**
-For coaches or athletes needing one-off testing or tools.
+One-off clarity.
 - Single testing sessions  
 - Reports and visualizations  
 - Ready-to-use templates and resources  
