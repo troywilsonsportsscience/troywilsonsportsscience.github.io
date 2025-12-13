@@ -13,10 +13,11 @@ header:
     - label: "Contact"
       url: "/contact/"
 
-excerpt: "Clear performance decisions from testing, training, and monitoring
+excerpt: |
+  Clear performance decisions from testing, training, and monitoring
 
-*Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence*"
-excerpt_type: "markdown"
+  *Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence*
+excerpt_type: markdown
 
 feature_row:
   - image_path: /assets/images/performance-services-2.png
