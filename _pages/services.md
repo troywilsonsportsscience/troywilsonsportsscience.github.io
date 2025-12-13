@@ -65,27 +65,24 @@ Turning performance data into clear answers that support better coaching and pla
 
 Support is structured into three tiers:
 
-### **Essentials**
-One-off clarity.
-- Single testing sessions  
-- Reports and visualizations  
-- Ready-to-use templates and resources  
+### **Essentials** - *One-off clarity*
+- Single testing or assessment session.  
+- Clear report with key findings and next-step recommendations. 
+- Ready-to-use templates or tools where relevant.  
 
 ---
 
-### **Applied**
-For those requiring ongoing support.
-- Regular monitoring  
-- Programming consultation  
-- Progress reviews and adjustments  
+### **Applied** - *Ongoing guidance across a training phase or season*
+- Regular monitoring and check-ins.  
+- Training or testing adjustments based on trends.  
+- Periodic progress reviews tied to performance goals.
 
 ---
 
-### **High-Performance**
-For environments requiring fully custom systems.
-- Integrated testing models  
-- Custom dashboards and analytics  
-- Organization-level performance frameworks  
+### **High-Performance** - *Fully integrated systems for teams or programs*
+- Custom testing and monitoring models.  
+- Dashboards and analytics aligned to staff workflows.  
+- Organization-level frameworks for consistency and planning. 
 
 ---
 
