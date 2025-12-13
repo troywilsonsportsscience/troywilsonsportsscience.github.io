@@ -14,7 +14,8 @@ header:
       url: "/contact/"
 
 excerpt: "Clear performance decisions from testing, training, and monitoring
-***Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence***"
+
+*Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence*"
 excerpt_type: "markdown"
 
 feature_row:
