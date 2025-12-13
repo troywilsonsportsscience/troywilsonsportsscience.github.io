@@ -13,7 +13,8 @@ header:
     - label: "Contact"
       url: "/contact/"
 
-excerpt: "Bridging applied sports science, strength and conditioning, and data analytics to help athletes, coaches, and organizations make better decisions."
+excerpt: "Clear performance decisions from testing, training, and monitoring
+***Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence***"
 excerpt_type: "markdown"
 
 feature_row:
