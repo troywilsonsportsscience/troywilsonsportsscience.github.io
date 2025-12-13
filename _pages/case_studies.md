@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "Case Studies"
+permalink: /case_studies/
 layout: single
 author_profile: true
 ---
