@@ -31,7 +31,7 @@ feature_row:
     title: "Sports Science Projects"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
     url: "/projects/"
-    btn_label: "See projects"
+    btn_label: "View Case Studies"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/data-tools-2.png
