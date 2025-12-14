@@ -17,7 +17,7 @@ excerpt: "Helping Coaches and Teams Turn Performance Data into Better Training D
 excerpt_type: markdown
 
 feature_row:
-  - image_path: /assets/images/performance-services-2.png
+  - image_path: /assets/images/sport-science-projects.png
     alt: "Applied sport science credibility"
     title: "Applied Sport Science"
     excerpt: "Sport scientist (MSc) with applied experience designing testing, monitoring, and analytics systems that support clear training and performance decisions."
@@ -33,7 +33,7 @@ feature_row:
     btn_label: "View Services"
     btn_class: "btn--primary"
  
-  - image_path: /assets/images/sport-science-projects.png
+  - image_path: /assets/images/data-tools-2.png
     alt: "Sport science projects and analytics"
     title: "Sport Science Support"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
