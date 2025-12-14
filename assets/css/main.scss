@@ -60,9 +60,15 @@
 }
 
 /* forcing 2 items in splah feature row */
-.feature__wrapper {
-  grid-template-columns: repeat(2, 1fr);
+.layout--splash .feature__wrapper {
+  justify-content: center;
 }
+
+.layout--splash .feature__item {
+  flex: 0 0 45%;
+  max-width: 45%;
+}
+
 
 
 /* ---------------------------------------------
