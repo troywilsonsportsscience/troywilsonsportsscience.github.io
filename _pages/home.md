@@ -14,8 +14,7 @@ header:
       url: "/services/"
 
 excerpt: "Helping Coaches and Teams Turn Performance Data into Better Training Decisions
-<br><em>*Testing, monitoring, and analytics systems that deliver clear, actionable insights — not more data.
-*</em>"
+<br><em>Testing, monitoring, and analytics systems that deliver clear, actionable insights — not more data.</em>"
 
 excerpt_type: markdown
 
