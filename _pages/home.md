@@ -18,9 +18,9 @@ excerpt_type: markdown
 
 feature_row:
   - image_path: /assets/images/sport-science-projects.png
-    alt: "Applied sport science credibility"
-    title: "Applied Sport Science"
-    excerpt: "Sport scientist (MSc) with applied experience designing testing, monitoring, and analytics systems that support clear training and performance decisions."
+    alt: "Applied sports science credibility"
+    title: "Applied Sports Science"
+    excerpt: "Sports scientist (MSc) with applied experience designing testing, monitoring, and analytics systems that support clear training and performance decisions."
     url: "/about/"
     btn_label: "About"
     btn_class: "btn--primary"
@@ -34,8 +34,8 @@ feature_row:
     btn_class: "btn--primary"
  
   - image_path: /assets/images/data-tools-2.png
-    alt: "Sport science projects and analytics"
-    title: "Sport Science Support"
+    alt: "Sports science projects and analytics"
+    title: "Sports Science Support"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
     url: "/projects/"
     btn_label: "View Case Studies"
