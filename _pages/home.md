@@ -37,7 +37,7 @@ feature_row:
   - image_path: /assets/images/data-tools-2.png
     alt: "Dashboards and analytics"
     title: "Custom Solutions"
-    excerpt: "Clairty in trainining and athlete development."
+    excerpt: "Clarity in trainining and athlete development."
     url: "/contact/"
     btn_label: "Request Performance Consult"
     btn_class: "btn--primary"
