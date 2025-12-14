@@ -17,7 +17,7 @@ excerpt: "Clear performance decisions from testing, training, and monitoring<br>
 
 excerpt_type: markdown
 
-feature_row_2:
+feature_row:
   - image_path: /assets/images/performance-services-2.png
     alt: "Performance testing and monitoring"
     title: "Performance Services"
@@ -34,9 +34,17 @@ feature_row_2:
     btn_label: "View Case Studies"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/data-tools-2.png
+    alt: "Dashboards and analytics"
+    title: "Custom Solutions"
+    excerpt: "Clairty in trainining and athlete development."
+    url: "/contact/"
+    btn_label: "Request Performance Consult"
+    btn_class: "btn--primary"
+
 ---
 
-{% include feature_row id="feature_row_2" %}
+{% include feature_row id="feature_row" %}
 
 ## How Services Are Delivered
 Support is offered through a simple three-tier structure designed to match different levels of need:
