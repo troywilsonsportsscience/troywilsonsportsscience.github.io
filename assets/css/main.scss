@@ -59,14 +59,14 @@
   z-index: 3;
 }
 
-/* Splash page: fix spacing for 2-item feature rows (float-based MM) */
+/* Splash page: 2-item feature row — balanced size */
 .layout--splash .feature__wrapper {
   overflow: hidden; /* clear floats */
 }
 
 .layout--splash .feature__item {
-  width: 48%;
-  margin-right: 4%;
+  width: 42%;
+  margin-right: 6%;
 }
 
 .layout--splash .feature__item:nth-child(2n) {
