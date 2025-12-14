@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Troy Wilson
-I support coaches, athletes, and organizations operating in high-performance environments by applying sport science, performance testing, and analytics to real training and competition decisions.
+I help coaches and performance teams design testing, monitoring, and analytics systems that turn data into clear training decisions.
 
-My work focuses on reducing uncertainty in performance support by helping teams move beyond raw test outputs toward clear, defensible decisions that hold up across seasons, staff changes, and competitive pressure.
+I reduce the time from testing to actionable training recommendations from days to hours or minutes.
 
 ## Applied High-Performance Experience
 My background is grounded in applied sport science support within high-performance and competitive sport settings, where testing and monitoring must translate into action rather than theory.
