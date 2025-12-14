@@ -59,6 +59,12 @@
   z-index: 3;
 }
 
+/* forcing 2 items in splah feature row */
+.feature__wrapper {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
 /* ---------------------------------------------
    Balanced spacing for Projects page
    --------------------------------------------- */
