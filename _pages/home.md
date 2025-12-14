@@ -10,8 +10,6 @@ header:
   actions:
     - label: "Request Performance Consult"
       url: "/contact/"
-    - label: "View Services"
-      url: "/services/"
 
 excerpt: "Helping Coaches and Teams Turn Performance Data into Better Training Decisions
 <br><em>Testing, monitoring, and analytics systems that deliver clear, actionable insights — not more data.</em>"
