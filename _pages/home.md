@@ -37,6 +37,7 @@ feature_row_2:
 ---
 
 {% include feature_row id="feature_row_2" %}
+
 ## How Services Are Delivered
 Support is offered through a simple three-tier structure designed to match different levels of need:
 
