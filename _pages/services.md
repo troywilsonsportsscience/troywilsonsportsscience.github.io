@@ -4,18 +4,18 @@ permalink: /services/
 layout: single
 author_profile: true
 ---
-I help athletes, coaches, and organizations make clear training and performance decisions using testing, monitoring, and structured strength & conditioning support.
+I help athletes, coaches, and organizations make clear decisions about training and performance through testing, monitoring, and structured strength & conditioning support.
 
 ### Performance Testing & Monitoring
 
 Clear, repeatable tests that show how prepared an athlete is and how their performance is changing over time.
 
-**Who this helps**
+**Who This Helps**
 - **For Coaches:** Shows who is ready to train hard, who needs adjustments, and where strengths and weaknesses are.
 - **For Athletes:** Shows what is improving, what needs work, and gives simple targets to guide training.
 - **For Organizations:** Ensures all athletes are tested the same way, creates clean records, and supports long-term planning.
 
-**What you get**
+**What You Get**
 - A standardized testing session with clear indicators of readiness and performance.
 - A concise report showing current status, recent changes, and priority focus areas.
 - Trend tracking across weeks or months to guide training adjustments.
@@ -25,15 +25,14 @@ Clear, repeatable tests that show how prepared an athlete is and how their perfo
 
 ### Strength & Conditioning Support
 
-Personalized training that builds strength, power, and overall physical preparation for sport.
-**This service answers one question:** *What should training look like right now to move performance forward safely?*
+Personalized training that builds strength, power, and physical preparation for sport.
 
-**Who this helps**
+**Who This Helps**
 - **For Coaches:** Provides structured training plans for athletes, clear progress updates, and support in managing workloads through the season.
 - **For Athletes:** Delivers programs matched to your sport, goals, and schedule, with steady progress you can see and feel.
 - **For Organizations:** Creates consistent training standards across groups and supports long-term athlete development.
 
-**What you get**
+**What You Get**
 - A structured training plan aligned to sport demands and the current season phase.
 - Clear weekly priorities and progression targets.
 - Ongoing adjustments informed by performance and readiness indicators.
@@ -45,13 +44,13 @@ Personalized training that builds strength, power, and overall physical preparat
 
 Turning performance data into clear answers that support better coaching and planning. These projects are designed to answer specific performance or planning questions, not to generate more data.
 
-**Who this helps**
+**Who This Helps**
 - **For Coaches:** Turns testing and game data into simple takeaways you can act on, without needing to “do the stats” yourself.
 - **For Athletes:** Shows how changes in training, technique, or recovery are affecting performance over time.
 - **For Organizations:** Supports bigger questions such as talent ID, return-to-play decisions, and long-term planning.
 
-**What you get**
-- A clearly defined performance or planning question the project is built around.
+**What You Get**
+- A clearly defined performance or planning question around which the project is built.
 - A short written summary of findings, implications, and recommendations.
 - Simple visuals or tools that remain usable after the project ends.
 - Optional setup of dashboards or tracking systems aligned to your environment.  
