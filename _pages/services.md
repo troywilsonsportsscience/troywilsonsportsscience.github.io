@@ -87,6 +87,6 @@ Support is structured into three tiers:
 ---
 
 ## Ready to get started?
-If you want support with testing, training, or performance planning, reach out to discuss what you need.
+If you’re looking for clear direction around testing, training, or performance planning, you can request a performance consult to discuss the right level of support.
 
-[Contact](/contact/)
+[Request Performance Consult](/contact/)
