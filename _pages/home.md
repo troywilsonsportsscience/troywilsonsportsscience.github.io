@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.65"
   overlay_image: "/assets/images/hero-banner2.png"
   actions:
-    - label: "Request Rerformance Consult"
+    - label: "Request Performance Consult"
       url: "/contact/"
     - label: "View Services"
       url: "/services/"
