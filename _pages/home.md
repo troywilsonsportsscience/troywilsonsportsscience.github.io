@@ -17,7 +17,7 @@ excerpt: "Clear performance decisions from testing, training, and monitoring<br>
 
 excerpt_type: markdown
 
-feature_row:
+feature_row_2:
   - image_path: /assets/images/performance-services-2.png
     alt: "Performance testing and monitoring"
     title: "Performance Services"
@@ -36,7 +36,7 @@ feature_row:
 
 ---
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row_2" %}
 ## How Services Are Delivered
 Support is offered through a simple three-tier structure designed to match different levels of need:
 
