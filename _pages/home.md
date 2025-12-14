@@ -34,13 +34,6 @@ feature_row:
     btn_label: "View Case Studies"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/data-tools-2.png
-    alt: "Data tools and resources"
-    title: "Resources & Tools"
-    excerpt: "Templates, calculators, and resources for coaches and practitioners."
-    url: "/resources/"
-    btn_label: "View resources"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row" %}
