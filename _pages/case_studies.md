@@ -1,49 +1,55 @@
 ---
 title: "Case Studies"
-permalink: /case_studies/
+permalink: /case-studies/
 layout: single
 author_profile: true
 ---
 
-### Athlete Testing Dashboards
-Dashboards built to streamline analysis of CMJ, IMTP, sprint testing, and other performance markers.
+## Applied Performance Work
 
-**Purpose:** Provide coaches with clean, immediate insights from testing data.  
-**Approach:** Structured data models, automated calculations, KPI development, and clear visual outputs.  
-**Outcome:** Faster reporting, improved decision quality, and consistent performance evaluation workflows.
+These examples show how testing, monitoring, and analysis were used to improve **training and performance decisions** in real-world environments.
 
----
-
-### Readiness & Wellness Monitoring Tool
-A daily monitoring system used to track athlete readiness, wellness trends, and training responses.
-
-**Purpose:** Support day-to-day decision making by integrating subjective and objective indicators.  
-**Approach:** Simple athlete input, automated trend analysis, readiness scoring, and coach-facing summaries.  
-**Outcome:** Coaches receive actionable signals that guide training adjustments and recovery planning.
+The focus is on decision quality, repeatability, and practical use — not data volume.
 
 ---
 
-### Bobsleigh and Skeleton Performance Analysis
-Analysis tools and workflows for evaluating push performance in elite bobsleigh environments.
+### Large-Group Hockey Testing Protocol Optimization
 
-**Purpose:** Identify strengths, weaknesses, and performance trends across push athletes and crews.  
-**Approach:** Extraction of IBSF competition data, calculation of push totals and best runs, and modelling of athlete profiles.  
-**Outcome:** Improved selection clarity, targeted training priorities, and evidence-informed performance reviews.
+**Context**  
+Multi-team hockey environment supporting 20+ teams and over 200 athletes.
 
----
+**Problem**  
+High athlete volume led to long testing days, inconsistent protocols, and large datasets that were difficult for coaches to interpret. Early testing batteries produced more data than actionable decisions.
 
-### Strength & Conditioning Block Planning Framework
-A structured planning system that links training cycles, testing phases, and long-term development.
+**Action**  
+The testing system was rebuilt multiple times into a condensed, standardized battery focused on a small number of high-value metrics. Automated summaries were created to flag readiness and priority focus areas immediately after testing, while maintaining consistency across teams.
 
-**Purpose:** Provide athletes and coaches with a clear progression framework.  
-**Approach:** Phase-based templates, integrated testing checkpoints, and load/progression tracking.  
-**Outcome:** Better planning structure, improved communication, and alignment between testing and training.
+**Outcome**  
+Testing time was reduced while decision quality improved. Coaches received clear, actionable outputs instead of large spreadsheets, enabling immediate training adjustments and consistent application across teams and seasons.
 
 ---
 
-### Instant Insights: Team Testing Pack
-A coach-ready testing tool designed to produce instant team tables, rankings, and key insights with minimal input.
+### Sample Output
 
-**Purpose:** Reduce analysis time and provide fast, meaningful feedback after testing sessions.  
-**Approach:** Paste-in data workflow, automated rankings, strength/weakness flags, and clean summary visuals.  
-**Outcome:** Coaches receive immediate, evidence-based feedback to guide programming and athlete development.
+![Condensed hockey testing dashboard](/assets/images/hockey-testing-dashboard.pdf)
+
+*Sample output: Condensed team testing dashboard used to identify readiness concerns and priority focus areas immediately after testing.*
+
+---
+
+### Individual Track Athlete Assessment (Decision Example)
+
+**Context**  
+An individual track and field athlete during a focused training phase.
+
+**Problem**  
+Performance testing produced mixed results, making it unclear which physical qualities should be prioritized in training.
+
+**Action**  
+A targeted assessment was used to identify key limiting factors rather than expanding the test battery. Results were interpreted to determine the most impactful change in training focus.
+
+**Outcome**  
+Training priorities were adjusted to address the identified limiting qualities, providing clearer direction and a more efficient use of training time.
+---
+
+If you’re interested in applying a similar approach in your environment, you can [get in touch here](/contact/).
