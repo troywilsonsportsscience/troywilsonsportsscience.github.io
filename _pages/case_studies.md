@@ -31,7 +31,7 @@ Testing time was reduced while decision quality improved. Coaches received clear
 
 ### Sample Output
 
-![Condensed hockey testing dashboard](/assets/images/hockey-testing-dashboard.pdf)
+![Condensed hockey testing dashboard](/assets/images/hockey-testing-dashboard.png)
 
 *Sample output: Condensed team testing dashboard used to identify readiness concerns and priority focus areas immediately after testing.*
 
