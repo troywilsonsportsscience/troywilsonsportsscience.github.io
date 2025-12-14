@@ -27,8 +27,6 @@ The testing system was rebuilt multiple times into a condensed, standardized bat
 **Outcome**  
 Testing time was reduced from over a week to less than an hour, and coaches could make immediate, consistent training adjustments. Coaches received clear, actionable outputs instead of large spreadsheets, enabling consistent application across teams and seasons.
 
----
-
 ### Sample Output
 
 ![Condensed hockey testing dashboard](/assets/images/hockey-testing-dashboard.png)
