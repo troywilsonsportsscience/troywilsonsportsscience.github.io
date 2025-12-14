@@ -16,7 +16,7 @@ The focus is on decision quality, repeatability, and practical use — not data 
 ### Large-Group Hockey Testing Protocol Optimization
 
 **Context**  
-Multi-team hockey environment supporting 20+ teams and over 200 athletes.
+Multi-team hockey environment supporting 20+ teams and over 200 athletes during the Summer and Fall of 2025.
 
 **Problem**  
 High athlete volume led to long testing days, inconsistent protocols, and large datasets that were difficult for coaches to interpret. Early testing batteries produced more data than actionable decisions.
@@ -25,7 +25,7 @@ High athlete volume led to long testing days, inconsistent protocols, and large 
 The testing system was rebuilt multiple times into a condensed, standardized battery focused on a small number of high-value metrics. Automated summaries were created to flag readiness and priority focus areas immediately after testing, while maintaining consistency across teams.
 
 **Outcome**  
-Testing time was reduced while decision quality improved. Coaches received clear, actionable outputs instead of large spreadsheets, enabling immediate training adjustments and consistent application across teams and seasons.
+Testing time was reduced from over a week to less than an hour, and coaches could make immediate, consistent training adjustments. Coaches received clear, actionable outputs instead of large spreadsheets, enabling consistent application across teams and seasons.
 
 ---
 
