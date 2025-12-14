@@ -12,7 +12,7 @@ My work focuses on reducing uncertainty in performance support by helping teams 
 
 ## Applied High-Performance Experience
 My background is grounded in applied sport science support within high-performance and competitive sport settings, where testing and monitoring must translate into action rather than theory.
-- Performance testing and monitoring in national and provincial-level programs.
+- Performance testing and monitoring in professional, national and provincial-level programs.
 - Integration of force-plate, jump, sprint, and strength testing into seasonal planning.
 - Development of athlete monitoring systems used for training decisions and performance review.  
 - Translating sport science outputs into coach-led workflows that fit real training environments.
