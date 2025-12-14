@@ -50,6 +50,7 @@ A targeted assessment was used to identify key limiting factors rather than expa
 
 **Outcome**  
 Training priorities were adjusted to address the identified limiting qualities, providing clearer direction and a more efficient use of training time.
+
 ---
 
 If you’re interested in applying a similar approach in your environment, you can [get in touch here](/contact/).
