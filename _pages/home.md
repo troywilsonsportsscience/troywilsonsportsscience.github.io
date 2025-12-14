@@ -13,7 +13,9 @@ header:
     - label: "View Services"
       url: "/services/"
 
-excerpt: "Clear performance decisions from testing, training, and monitoring<br><em>*Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence*</em>"
+excerpt: "Helping Coaches and Teams Turn Performance Data into Better Training Decisions
+<br><em>*Testing, monitoring, and analytics systems that deliver clear, actionable insights — not more data.
+*</em>"
 
 excerpt_type: markdown
 
