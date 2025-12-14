@@ -4,7 +4,35 @@ permalink: /services/
 layout: single
 author_profile: true
 ---
-I help athletes, coaches, and organizations make clear decisions about training and performance through testing, monitoring, and structured strength & conditioning support.
+I provide performance testing, analysis, and decision support for athletes, coaches, and organizations.
+
+## Performance Testing & Decision Support
+
+A structured way to get clear answers from performance data—delivered remotely or on-site—so training decisions are grounded, consistent, and actionable.
+
+### Delivery Options
+
+**Remote Support**
+- Analysis and decision support using your existing testing systems and data
+- Test selection review, KPI definition, interpretation, and reporting
+
+**On-Site (Client Location)**
+- Travel-based testing and data acquisition
+- Equipment provided as needed
+- Post-test analysis and delivery
+
+**On-Site (My Location — Limited Availability)**
+- Testing conducted when space and scheduling allow
+- Best suited for individuals or small groups
+- Availability varies by season
+
+### What This Covers
+- Test selection and standardization  
+- KPI definition and thresholds  
+- Interpretation and coach-ready reporting  
+- Optional programming adjustments to implement findings  
+
+---
 
 ### Performance Testing & Monitoring
 
@@ -59,7 +87,7 @@ Turning performance data into clear answers that support better coaching and pla
 
 ## Levels of Support
 
-Support is structured into three tiers:
+These levels apply across remote and on-site delivery, depending on context and needs.
 
 ### **Essentials** 
 - ***One-off clarity***
@@ -88,4 +116,4 @@ Support is structured into three tiers:
 ## Ready to get started?
 If you’re looking for clear direction around testing, training, or performance planning, you can request a performance consult to discuss the right level of support.
 
-[Request Performance Consult](/contact/)
+**[Request Performance Consult](/contact/)**
