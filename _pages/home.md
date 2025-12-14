@@ -23,7 +23,7 @@ feature_row:
     title: "Performance Services"
     excerpt: "Testing, monitoring, and strength & conditioning support for individuals and teams."
     url: "/services/"
-    btn_label: "View services"
+    btn_label: "View Services"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/sport-science-projects.png
@@ -49,6 +49,6 @@ feature_row:
 ## How Services Are Delivered
 Support is offered through a simple three-tier structure designed to match different levels of need:
 
-- **Essentials** – one-off testing, reports, and tools  
-- **Applied** – ongoing support with regular monitoring  
-- **High-Performance** – fully custom systems and analytics  
+- **Essentials** – One-off testing, reports, and tools  
+- **Applied** – Ongoing support with regular monitoring  
+- **High-Performance** – Fully custom systems and analytics  
