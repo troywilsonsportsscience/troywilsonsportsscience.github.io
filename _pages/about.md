@@ -5,40 +5,45 @@ layout: single
 author_profile: true
 ---
 
-## About Me
-I work across applied sport science, strength and conditioning, and data analytics—helping athletes, coaches, and organizations make better decisions. My background spans athlete testing, performance monitoring, dashboard development, and building analytical tools that solve real performance problems.
+## Troy Wilson
+I support coaches, athletes, and organizations operating in high-performance environments by applying sport science, performance testing, and analytics to real training and competition decisions.
+
+My work focuses on reducing uncertainty in performance support by helping teams move beyond raw test outputs toward clear, defensible decisions that hold up across seasons, staff changes, and competitive pressure.
+
+## Applied High-Performance Experience
+My background is grounded in applied sport science support within high-performance and competitive sport settings, where testing and monitoring must translate into action rather than theory.
+- Performance testing and monitoring in national and provincial-level programs.
+- Integration of force-plate, jump, sprint, and strength testing into seasonal planning.
+- Development of athlete monitoring systems used for training decisions and performance review.  
+- Translating sport science outputs into coach-led workflows that fit real training environments.
+- Supporting communication between athletes, coaches, and performance staff using shared data standards.
 
 ## Who I Work With
-I support environments that need clear, reliable information to guide training and performance. This includes:
-- High-performance, provincial, and national-team sport programs  
-- Strength & conditioning facilities and athlete development systems  
-- Team sport organizations  
-- Individual athletes requiring structured testing and monitoring  
+***Coaches***
+-  I help coaches interpret testing and monitoring data quickly and reliably, so training decisions are guided by clear signals rather than metric overload or conflicting reports.
+
+***Athletes***
+-  I provide objective benchmarking and long-term tracking to support development, readiness, and return-to-performance decisions with clarity and consistency.
+
+***Organizations***
+-  I support organizations in building scalable performance systems through standardizing testing, monitoring, and reporting so decision quality does not depend on individual staff members.
 
 ## What I Do
-I design and implement systems that make performance measurable, comparable, and actionable. My work covers:
-- Performance testing and monitoring  
-- Strength & conditioning planning and support  
-- Data analysis, KPI development, and dashboard creation  
-- Tools and systems for coaches and high-performance programs  
+I design and support performance systems that make athlete data measurable, comparable, and actionable across time.
 
-## How I Help
-I translate testing, training, and competition data into insights that improve decision quality. The focus is on:
-- Identifying strengths, weaknesses, and readiness  
-- Tracking change over time  
-- Supporting programming and planning  
-- Reducing uncertainty in performance environments  
+This includes performance testing, ongoing monitoring, strength and conditioning support, and applied data analysis, but always with the goal of improving decision-making rather than collecting more data.
 
-## What This Site Contains
-This site organizes my:
-- Projects  
-- Case studies  
-- Services  
-- Resources and tools  
+My focus is on building systems that coaches will actually use and trust under real operational constraints.  
 
-All in one place for coaches, athletes, and organizations seeking structured, applied support.
+## How I work
+My approach to performance support is shaped by high-performance environments where clarity and practicality matter.
+- Context before metrics: sport, level, and constraints guide every system.  
+- Longitudinal tracking over single test outcomes.  
+- Minimal viable dashboards that highlight decisions and not noise.  
+- Evidence-informed practice without unnecessary complexity.
+- Designed to integrate with existing coaching and training workflows.   
 
-## Work With Me
-If you need performance testing, applied sport science support, or data systems built for your environment, you can reach out here:
+## Working Together
+If you are operating in a high-performance environment and are looking for applied sport science support that prioritizes clarity, decision-making, and real-world constraints, you can contact me to discuss how I can support your program.
 
-[Contact](/contact/)
+[Request Performance Consult](/contact/)
