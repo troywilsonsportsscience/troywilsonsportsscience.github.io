@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Troy Wilson"
   avatar : "/assets/images/hero-profile.jpg"
-  bio    : "Delivering testing, analytics, and athlete-monitoring solutions that help coaches make faster, clearer decisions. High-performance methods translated into accessible tools for teams and individuals."
+  bio    : "Applied sport science for high-performance environments by supporting coaches with clear, defensible performance decisions."
   location: "Calgary, Canada"
   links:
     - label: "Blog"
