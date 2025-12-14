@@ -152,29 +152,3 @@
   margin-top: 0.9rem !important;
   margin-bottom: 0.1rem !important;
 }
-
-/* Splash: fix spacing ONLY when the feature row has exactly 2 items */
-.layout--splash .feature__wrapper {
-  overflow: hidden; /* clearfix for floats */
-}
-
-/* target only when there are exactly 2 .feature__item children */
-.layout--splash .feature__wrapper > .feature__item:first-child:nth-last-child(2),
-.layout--splash .feature__wrapper > .feature__item:first-child:nth-last-child(2) ~ .feature__item {
-  float: left;
-  width: 46%;
-  margin-right: 8%;
-}
-
-.layout--splash .feature__wrapper > .feature__item:last-child {
-  margin-right: 0;
-}
-
-/* stack on mobile */
-@media (max-width: 768px) {
-  .layout--splash .feature__wrapper > .feature__item {
-    float: none;
-    width: 100%;
-    margin-right: 0;
-  }
-}
