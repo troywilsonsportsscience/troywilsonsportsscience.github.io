@@ -53,4 +53,4 @@ Training priorities were adjusted to address the identified limiting qualities, 
 
 ---
 
-If you’re interested in applying a similar approach in your environment, you can [get in touch here](/contact/).
+If you’re interested in applying a similar approach in your environment, you can [request a performance consult](/contact/).
