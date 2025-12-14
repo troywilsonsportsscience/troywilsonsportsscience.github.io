@@ -7,7 +7,7 @@ author_profile: true
 
 ## Applied Performance Work
 
-These examples show how testing, monitoring, and analysis were used to improve **training and performance decisions** in real-world environments.
+These examples show how testing, monitoring, and analysis were used to improve training and performance decisions in real-world environments.
 
 The focus is on decision quality, repeatability, and practical use — not data volume.
 
@@ -37,10 +37,10 @@ Testing time was reduced from over a week to less than an hour, and coaches coul
 
 ---
 
-### Individual Track Athlete Assessment (Decision Example)
+### Individual Track Athlete Assessment
 
 **Context**  
-An individual track and field athlete during a focused training phase.
+An individual track and field athlete during a focused training phase following the 2024/25 indoor season.
 
 **Problem**  
 Performance testing produced mixed results, making it unclear which physical qualities should be prioritized in training.
@@ -49,7 +49,23 @@ Performance testing produced mixed results, making it unclear which physical qua
 A targeted assessment was used to identify key limiting factors rather than expanding the test battery. Results were interpreted to determine the most impactful change in training focus.
 
 **Outcome**  
-Training priorities were adjusted to address the identified limiting qualities, providing clearer direction and a more efficient use of training time.
+Testing identified strength limitations at the hip and ankle, while hip extensor strength was within optimal ranges. Limitations in ground contact characteristics and explosiveness were also identified as suboptimal for high-performance sprinting. Training was adjusted to target these deficits while maintaining and optimizing power and resilience in the hip extensors.
+
+---
+
+### Return-to-Performance Monitoring 
+
+**Context**  
+An athlete returning to training following a surgically repaired upper hamstring rupture.
+
+**Problem**  
+Return-to-performance decisions are needed to balance the risk of reinjury with the opportunity to progress training efficiently. Subjective readiness alone was insufficient to guide progression.
+
+**Action**  
+Periodic performance testing was used to benchmark key stages of the return-to-training process. Objective markers were tracked across phases to inform when progression could be safely accelerated rather than delayed. Findings were shared with the physiotherapy team to align return-to-training decisions and progression timing.
+
+**Outcome**  
+Progression decisions were guided by the accelerated return of specific performance metrics, allowing training timelines to advance while maintaining control over risk and athlete confidence.
 
 ---
 
