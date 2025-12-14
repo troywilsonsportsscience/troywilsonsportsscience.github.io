@@ -1,6 +1,6 @@
 ---
 title: "Case Studies"
-permalink: /case-studies/
+permalink: /case_studies/
 layout: single
 author_profile: true
 ---
