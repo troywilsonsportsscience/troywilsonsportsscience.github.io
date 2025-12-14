@@ -59,17 +59,19 @@
   z-index: 3;
 }
 
-/* forcing 2 items in splah feature row */
+/* Splash page: fix spacing for 2-item feature rows (float-based MM) */
 .layout--splash .feature__wrapper {
-  justify-content: center;
+  overflow: hidden; /* clear floats */
 }
 
 .layout--splash .feature__item {
-  flex: 0 0 45%;
-  max-width: 45%;
+  width: 48%;
+  margin-right: 4%;
 }
 
-
+.layout--splash .feature__item:nth-child(2n) {
+  margin-right: 0;
+}
 
 /* ---------------------------------------------
    Balanced spacing for Projects page
