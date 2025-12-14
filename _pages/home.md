@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.65"
   overlay_image: "/assets/images/hero-banner2.png"
   actions:
+    - label: "Request Rerformance Consult"
+      url: "/contact/"
     - label: "View Services"
       url: "/services/"
-    - label: "Contact"
-      url: "/contact/"
 
 excerpt: "Clear performance decisions from testing, training, and monitoring<br><em>*Helping athletes, coaches, and organizations use testing and monitoring data to guide training with confidence*</em>"
 
