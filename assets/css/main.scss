@@ -160,6 +160,13 @@
   border: 1px solid #475569 !important;
 }
 
+/* HERO ACTION STACK FIX — required for credibility line */
+.page__hero--overlay .actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* Hero credibility line under CTA */
 .page__hero--overlay .actions li:last-child a {
   background: none !important;
