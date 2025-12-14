@@ -28,7 +28,7 @@ feature_row:
 
   - image_path: /assets/images/sport-science-projects.png
     alt: "Dashboards and analytics"
-    title: "Sports Science Projects"
+    title: "Sports Science Support"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
     url: "/projects/"
     btn_label: "View Case Studies"
