@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TW Sports Science">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#ff1744"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#020617"/>
+  <path d="M10 16h44v8H36v26h-8V24H10z" fill="url(#accent)"/>
+  <path d="M13 30h8l5 12 6-12h7l6 12 5-12h8L49 50h-8l-6-12-6 12h-8z" fill="#f8fafc"/>
+</svg>

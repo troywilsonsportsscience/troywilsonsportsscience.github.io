@@ -14,10 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Troy Wilson | Sports Science"
+title_separator: "|"
 name: Troy Wilson
 email: "troywilson13@gmail.com"
 description: "Applied sport science, strength & conditioning, and data analytics."
 url: "https://troywilsonsportsscience.github.io"
+locale: "en-CA"
+og_image: "/assets/images/hero-banner2.png"
+og_image_alt: "Abstract performance data visualization in blue and red"
 github_username: troywilsonsportsscience
 instagram_username: troyw.sc
 minimal_mistakes_skin: neon
