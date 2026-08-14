@@ -107,52 +107,6 @@
 }
 
 /* ========================================================================== */
-/* Forms */
-/* ========================================================================== */
-
-.page__content form {
-  max-width: 42rem;
-}
-
-.page__content .form-field {
-  margin-bottom: 1.25rem;
-}
-
-.page__content .form-field label {
-  display: block;
-  margin-bottom: 0.35rem;
-  font-weight: 600;
-}
-
-.page__content .form-field input,
-.page__content .form-field select,
-.page__content .form-field textarea {
-  width: 100%;
-}
-
-.page__content form select {
-  color: #f9fafb;
-  background-color: #020617;
-  border: 1px solid #475569;
-}
-
-.page__content .form-field textarea {
-  resize: vertical;
-}
-
-.page__content .form-field input:focus,
-.page__content .form-field select:focus,
-.page__content .form-field textarea:focus {
-  outline: 2px solid #ff0000;
-  outline-offset: 2px;
-}
-
-.page__content .form-note {
-  margin-top: 1rem;
-  font-size: 0.9rem;
-}
-
-/* ========================================================================== */
 /* Footer */
 /* ========================================================================== */
 
