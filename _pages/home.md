@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Troy Wilson l Sports Science
+title: "Troy Wilson | Sports Science"
 permalink: /
 
 header:
