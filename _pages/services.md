@@ -3,117 +3,133 @@ title: "Services"
 permalink: /services/
 layout: single
 author_profile: true
+description: "Performance testing, monitoring, strength and conditioning, and sports analytics support for athletes, coaches, teams, and organizations."
 ---
-I provide performance testing, analysis, and decision support for athletes, coaches, and organizations.
 
-## Performance Testing & Decision Support
+Performance testing, monitoring, and analytics support for athletes, coaches, and organizations that need clear, defensible training decisions.
 
-A structured way to get clear answers from performance data—delivered remotely or on-site—so training decisions are grounded, consistent, and actionable.
+## Choose Your Level of Support
 
-### Delivery Options
+### Essentials
 
-**Remote Support**
-- Analysis and decision support using your existing testing systems and data
-- Test selection review, KPI definition, interpretation, and reporting
+**Best for:** An athlete, coach, or small group that needs a clear answer to a specific performance question.
 
-**On-Site (Client Location)**
-- Travel-based testing and data acquisition
-- Equipment provided as needed
-- Post-test analysis and delivery
+**Typical engagement:** One-off testing, assessment, or analysis.
 
-**On-Site (My Location — Limited Availability)**
-- Testing conducted when space and scheduling allow
-- Best suited for individuals or small groups
-- Availability varies by season
+**What you receive:**
 
-### What This Covers
-- Test selection and standardization  
-- KPI definition and thresholds  
-- Interpretation and coach-ready reporting  
-- Optional programming adjustments to implement findings  
+- A focused assessment or review based on your goals.
+- A concise report with key findings and priority actions.
+- Coach- and athlete-friendly interpretation of the results.
+- Ready-to-use recommendations, templates, or tools where appropriate.
+
+[Discuss an Essentials project](/contact/){: .btn .btn--primary }
 
 ---
+
+### Applied
+
+**Best for:** Athletes and teams that need ongoing guidance across a training phase or season.
+
+**Typical engagement:** Regular monitoring, check-ins, and progress reviews.
+
+**What you receive:**
+
+- Repeat testing or monitoring using consistent protocols.
+- Trend analysis tied to defined performance goals.
+- Training or testing adjustments based on meaningful changes.
+- Periodic summaries that keep coaches, athletes, and support staff aligned.
+
+[Discuss Applied support](/contact/){: .btn .btn--primary }
+
+---
+
+### High-Performance
+
+**Best for:** Teams and organizations that need an integrated, repeatable performance system.
+
+**Typical engagement:** A custom project or ongoing partnership built around staff workflows and operational constraints.
+
+**What you receive:**
+
+- Standardized testing and monitoring models.
+- KPIs and decision thresholds aligned to your environment.
+- Dashboards, automated reports, or tracking systems.
+- Organization-level frameworks that improve consistency across athletes, teams, and seasons.
+
+[Discuss a High-Performance system](/contact/){: .btn .btn--primary }
+
+## Areas of Support
 
 ### Performance Testing & Monitoring
 
-Clear, repeatable tests that show how prepared an athlete is and how their performance is changing over time.
+Clear, repeatable tests that show how prepared an athlete is and how performance is changing over time.
 
-**Who This Helps**
-- **For Coaches:** Shows who is ready to train hard, who needs adjustments, and where strengths and weaknesses are.
-- **For Athletes:** Shows what is improving, what needs work, and gives simple targets to guide training.
-- **For Organizations:** Ensures all athletes are tested the same way, creates clean records, and supports long-term planning.
-
-**What You Get**
-- A standardized testing session with clear indicators of readiness and performance.
-- A concise report showing current status, recent changes, and priority focus areas.
-- Trend tracking across weeks or months to guide training adjustments.
-- Results delivered in simple tables and visuals that can be interpreted immediately by coaches and athletes.
-  
----
+- Test selection and protocol standardization.
+- Readiness and performance benchmarking.
+- Longitudinal tracking across weeks, phases, or seasons.
+- Clear reports that identify priority focus areas.
 
 ### Strength & Conditioning Support
 
-Personalized training that builds strength, power, and physical preparation for sport.
+Training support aligned to sport demands, development goals, and the current phase of the season.
 
-**Who This Helps**
-- **For Coaches:** Provides structured training plans for athletes, clear progress updates, and support in managing workloads through the season.
-- **For Athletes:** Delivers programs matched to your sport, goals, and schedule, with steady progress you can see and feel.
-- **For Organizations:** Creates consistent training standards across groups and supports long-term athlete development.
-
-**What You Get**
-- A structured training plan aligned to sport demands and the current season phase.
-- Clear weekly priorities and progression targets.
-- Ongoing adjustments informed by performance and readiness indicators.
-- Return-to-training structure when needed, with defined checkpoints.
-
----
+- Structured programs with clear weekly priorities.
+- Progression targets informed by testing and monitoring.
+- Ongoing adjustments based on readiness and performance.
+- Return-to-training checkpoints when appropriate.
 
 ### Sport Science Projects & Analytics
 
-Turning performance data into clear answers that support better coaching and planning. These projects are designed to answer specific performance or planning questions, not to generate more data.
+Focused projects that answer a specific performance or planning question rather than generating more data.
 
-**Who This Helps**
-- **For Coaches:** Turns testing and game data into simple takeaways you can act on, without needing to “do the stats” yourself.
-- **For Athletes:** Shows how changes in training, technique, or recovery are affecting performance over time.
-- **For Organizations:** Supports bigger questions such as talent ID, return-to-play decisions, and long-term planning.
+- KPI development and data interpretation.
+- Coach-ready summaries and recommendations.
+- Dashboards and reporting automation.
+- Support for talent identification, return-to-performance, and long-term planning questions.
 
-**What You Get**
-- A clearly defined performance or planning question around which the project is built.
-- A short written summary of findings, implications, and recommendations.
-- Simple visuals or tools that remain usable after the project ends.
-- Optional setup of dashboards or tracking systems aligned to your environment.  
+## Delivery Options
 
----
+### Remote Support
 
-## Levels of Support
+Analysis, test-selection review, KPI development, reporting, and decision support using your existing systems and data.
 
-These levels apply across remote and on-site delivery, depending on context and needs.
+### On-Site at Your Location
 
-### **Essentials** 
-- ***One-off clarity***
-- Single testing or assessment session.  
-- Clear report with key findings and next-step recommendations. 
-- Ready-to-use templates or tools where relevant.  
+Travel-based testing and data acquisition, with equipment provided as needed and post-test analysis delivered afterward.
 
----
+### On-Site at My Location
 
-### **Applied** 
-- ***Ongoing guidance across a training phase or season***
-- Regular monitoring and check-ins.  
-- Training or testing adjustments based on trends.  
-- Periodic progress reviews tied to performance goals.
+Limited seasonal availability for individuals and small groups, subject to space and scheduling.
 
----
+## Frequently Asked Questions
 
-### **High-Performance** 
-- ***Fully integrated systems for teams or programs***
-- Custom testing and monitoring models.  
-- Dashboards and analytics aligned to staff workflows.  
-- Organization-level frameworks for consistency and planning. 
+### Can support be delivered remotely?
 
----
+Yes. Existing testing data and systems can be reviewed remotely, including test selection, KPIs, interpretation, reporting, and planning recommendations.
 
-## Ready to get started?
-If you’re looking for clear direction around testing, training, or performance planning, you can request a performance consult to discuss the right level of support.
+### Do you work with individual athletes?
 
-**[Request Performance Consult](/contact/)**
+Yes. Essentials and Applied support can be used for individual assessment, training guidance, progress monitoring, and return-to-performance decision support.
+
+### Can you work with our existing coaches and performance staff?
+
+Yes. Systems are designed to fit existing coaching workflows and improve shared decision-making rather than replace current staff or processes.
+
+### Do we need specialized equipment?
+
+Not always. The testing approach is selected around the question, available equipment, athlete population, and practical constraints. Equipment can be provided for some on-site work as needed.
+
+### How long does an engagement take?
+
+Essentials work is generally a focused one-off engagement. Applied and High-Performance support is scoped around the training phase, season, project requirements, and reporting needs.
+
+### What happens during the initial consultation?
+
+The first conversation identifies the performance question, available data and resources, timeline, and desired outcome. From there, the most appropriate level of support and next step can be defined.
+
+## Ready to Get Started?
+
+Describe your current challenge, proposed timeline, and the outcome you want to improve.
+
+[Request a Performance Consult](/contact/){: .btn .btn--primary }

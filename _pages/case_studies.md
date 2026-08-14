@@ -3,6 +3,7 @@ title: "Case Studies"
 permalink: /case_studies/
 layout: single
 author_profile: true
+description: "Applied sports science case studies covering team testing, athlete assessment, performance monitoring, and coach-ready analytics."
 ---
 
 ## Applied Performance Work
@@ -14,6 +15,8 @@ The focus is on decision quality, repeatability, and practical use — not data 
 ---
 
 ### Large-Group Hockey Testing Protocol Optimization
+
+> **At a glance:** 20+ teams · 200+ athletes · Testing time reduced from over a week to less than an hour.
 
 **Context**  
 Multi-team hockey environment supporting 20+ teams and over 200 athletes during the Summer and Fall of 2025.
@@ -37,6 +40,8 @@ Testing time was reduced from over a week to less than an hour, and coaches coul
 
 ### Individual Track Athlete Assessment
 
+> **Decision impact:** Testing was narrowed to the physical qualities most likely to influence training priorities.
+
 **Context**  
 An individual track and field athlete during a focused training phase following the 2024/25 indoor season.
 
@@ -53,6 +58,8 @@ Testing identified strength limitations at the hip and ankle, while hip extensor
 
 ### Return-to-Performance Monitoring 
 
+> **Decision impact:** Objective checkpoints helped the athlete and physiotherapy team progress training with clearer control over timing and risk.
+
 **Context**  
 An athlete returning to training following a surgically repaired upper hamstring rupture.
 
@@ -67,4 +74,8 @@ Progression decisions were guided by the accelerated return of specific performa
 
 ---
 
-If you’re interested in applying a similar approach in your environment, you can [request a performance consult](/contact/).
+## Facing a Similar Performance Question?
+
+Discuss how a focused testing, monitoring, or analytics approach could fit your environment.
+
+[Request a Performance Consult](/contact/){: .btn .btn--primary }

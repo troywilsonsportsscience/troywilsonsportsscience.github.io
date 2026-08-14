@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
+description: "About Troy Wilson and his applied sports science, performance testing, athlete monitoring, and analytics experience."
 ---
 
 ## Troy Wilson
@@ -46,4 +47,4 @@ My approach to performance support is shaped by high-performance environments wh
 ## Working Together
 If you are operating in a high-performance environment and are looking for applied sport science support that prioritizes clarity, decision-making, and real-world constraints, you can contact me to discuss how I can support your program.
 
-[Request Performance Consult](/contact/)
+[Request a Performance Consult](/contact/){: .btn .btn--primary }
