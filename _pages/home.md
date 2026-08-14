@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Troy Wilson l Sports Science
+title: Troy Wilson | Sports Science
 permalink: /
 
 header:
@@ -37,7 +37,7 @@ feature_row:
     alt: "Sports science projects and analytics"
     title: "Sports Science Support"
     excerpt: "Dashboards, KPIs, and analytical tools built from real high-performance environments."
-    url: "/projects/"
+    url: "/case_studies/"
     btn_label: "View Case Studies"
     btn_class: "btn--primary"
 

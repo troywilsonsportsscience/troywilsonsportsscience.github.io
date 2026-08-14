@@ -12,18 +12,25 @@ Free tools, templates, calculators, and practical resources for coaches, athlete
 
 {% assign tools = site.resources | sort: "title" %}
 
-{% capture resource_cards %}
-{% for item in tools %}
-  - image_path: {{ item.image_path | default: "/assets/images/default-thumbnail.jpg" }}
-    alt: "{{ item.title }}"
-    title: "{{ item.title }}"
-    excerpt: "{{ item.excerpt }}"
-    url: "{{ item.url }}"
-    btn_label: "Download"
-    btn_class: "btn--primary"
-{% endfor %}
-{% endcapture %}
-
-{% assign resource_cards = resource_cards | markdownify %}
-
-{% include feature_row id="resource_cards" %}
+<div class="feature__wrapper">
+  {% for item in tools %}
+    <div class="feature__item">
+      <div class="archive__item">
+        {% if item.image_path %}
+          <div class="archive__item-teaser">
+            <img src="{{ item.image_path | relative_url }}" alt="{{ item.title }}">
+          </div>
+        {% endif %}
+        <div class="archive__item-body">
+          <h2 class="archive__item-title">{{ item.title }}</h2>
+          {% if item.excerpt %}
+            <div class="archive__item-excerpt">{{ item.excerpt | markdownify }}</div>
+          {% endif %}
+          {% if item.download %}
+            <p><a href="{{ item.download | relative_url }}" class="btn btn--primary">Download</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
