@@ -78,4 +78,4 @@ Progression decisions were guided by the accelerated return of specific performa
 
 Discuss how a focused testing, monitoring, or analytics approach could fit your environment.
 
-[Request a Performance Consult](/contact/){: .btn .btn--primary }
+[Discuss Your Performance Goals](/contact/){: .btn .btn--primary }

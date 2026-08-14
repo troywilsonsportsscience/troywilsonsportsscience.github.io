@@ -3,16 +3,16 @@ title: "Services"
 permalink: /services/
 layout: single
 author_profile: true
-description: "Performance testing, monitoring, strength and conditioning, and sports analytics support for athletes, coaches, teams, and organizations."
+description: "Performance testing, monitoring, strength and conditioning, and sports analytics support that helps athletes and coaches make clearer training decisions."
 ---
 
-Performance testing, monitoring, and analytics support for athletes, coaches, and organizations that need clear, defensible training decisions.
+Performance testing, monitoring, and analytics support that helps athletes understand their priorities and gives coaches clearer information for planning training.
 
 ## Choose Your Level of Support
 
 ### Essentials
 
-**Best for:** An athlete, coach, or small group that needs a clear answer to a specific performance question.
+**Best for:** An athlete or coach who needs a clear answer to a specific performance question.
 
 **Typical engagement:** One-off testing, assessment, or analysis.
 
@@ -29,7 +29,7 @@ Performance testing, monitoring, and analytics support for athletes, coaches, an
 
 ### Applied
 
-**Best for:** Athletes and teams that need ongoing guidance across a training phase or season.
+**Best for:** Athletes and coaches who want to track progress and adjust training across a phase or season.
 
 **Typical engagement:** Regular monitoring, check-ins, and progress reviews.
 
@@ -46,7 +46,7 @@ Performance testing, monitoring, and analytics support for athletes, coaches, an
 
 ### High-Performance
 
-**Best for:** Teams and organizations that need an integrated, repeatable performance system.
+**Best for:** Coaching teams and performance programs that need an integrated, repeatable system around their athletes.
 
 **Typical engagement:** A custom project or ongoing partnership built around staff workflows and operational constraints.
 
@@ -63,7 +63,7 @@ Performance testing, monitoring, and analytics support for athletes, coaches, an
 
 ### Performance Testing & Monitoring
 
-Clear, repeatable tests that show how prepared an athlete is and how performance is changing over time.
+Clear, repeatable tests that help athletes understand their current priorities and help coaches see how performance is changing over time.
 
 - Test selection and protocol standardization.
 - Readiness and performance benchmarking.
@@ -72,7 +72,7 @@ Clear, repeatable tests that show how prepared an athlete is and how performance
 
 ### Strength & Conditioning Support
 
-Training support aligned to sport demands, development goals, and the current phase of the season.
+Training support that connects the athlete's sport demands and development goals with the coach's plan for the current phase of the season.
 
 - Structured programs with clear weekly priorities.
 - Progression targets informed by testing and monitoring.
@@ -81,7 +81,7 @@ Training support aligned to sport demands, development goals, and the current ph
 
 ### Sport Science Projects & Analytics
 
-Focused projects that answer a specific performance or planning question rather than generating more data.
+Focused projects that answer a specific athlete-development or coaching question rather than generating more data.
 
 - KPI development and data interpretation.
 - Coach-ready summaries and recommendations.
@@ -130,6 +130,6 @@ The first conversation identifies the performance question, available data and r
 
 ## Ready to Get Started?
 
-Describe your current challenge, proposed timeline, and the outcome you want to improve.
+Describe your goals, current challenge, proposed timeline, and the training decision you want to make clearer.
 
-[Request a Performance Consult](/contact/){: .btn .btn--primary }
+[Discuss Your Performance Goals](/contact/){: .btn .btn--primary }

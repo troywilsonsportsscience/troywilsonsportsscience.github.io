@@ -8,40 +8,51 @@ header:
   overlay_filter: "0.65"
   overlay_image: "/assets/images/hero-banner2.png"
   actions:
-    - label: "Request a Performance Consult"
+    - label: "Discuss Your Performance Goals"
       url: "/contact/"
 
-excerpt: "Performance testing and analytics for coaches, athletes, and teams who need clearer training decisions
-<br><em>Practical testing, monitoring, and reporting systems—not more spreadsheets.</em>"
+excerpt: "Turn Performance Data Into Decisions Athletes and Coaches Can Trust
+<br><em>Understand what matters, identify the next priority, and train with greater clarity.</em>"
 
 excerpt_type: markdown
 
 feature_row:
   - image_path: /assets/images/sport-science-projects.png
     alt: "Applied sports science support"
-    title: "Applied Sports Science"
-    excerpt: "Testing and monitoring systems designed around the decisions coaches and athletes actually need to make."
-    url: "/about/"
-    btn_label: "About Troy"
+    title: "For Athletes"
+    excerpt: "Identify physical priorities, track meaningful progress, and understand how testing should influence your training."
+    url: "/services/"
+    btn_label: "Explore Athlete Support"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/performance-services-2.png
     alt: "Performance testing and monitoring services"
-    title: "Performance Services"
-    excerpt: "One-off assessments, ongoing monitoring, and integrated performance support for individuals and teams."
+    title: "For Coaches"
+    excerpt: "Turn testing and monitoring data into clear priorities, practical adjustments, and coach-ready reports."
     url: "/services/"
-    btn_label: "View Services"
+    btn_label: "Explore Coach Support"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/data-tools-2.png
     alt: "Sports science analytics and reporting"
-    title: "Analytics & Reporting"
-    excerpt: "Coach-ready reports, dashboards, KPIs, and analytical tools built for real high-performance environments."
+    title: "For Teams & Programs"
+    excerpt: "Build repeatable testing, monitoring, and reporting systems that keep athletes and staff aligned."
     url: "/case_studies/"
-    btn_label: "View Case Studies"
+    btn_label: "See Applied Results"
     btn_class: "btn--primary"
 
 ---
+
+## Why This Work Matters
+
+Athletes should understand what their performance data means. Coaches should be able to use it confidently. Testing is valuable only when it improves the next training decision.
+
+## How Decisions Become Clearer
+
+- Start with the athlete's goals, the coach's questions, and the realities of the training environment.
+- Select a focused set of meaningful tests and metrics.
+- Track changes consistently rather than overreacting to a single result.
+- Translate findings into priorities that can be applied in training.
 
 {% include feature_row id="feature_row" %}
 
@@ -51,7 +62,7 @@ In one large-group hockey environment, a testing system supporting **20+ teams a
 
 [See how the system was improved](/case_studies/){: .btn }
 
-## Choose the Right Level of Support
+## What Support Looks Like
 
 - **Essentials** – One-off testing, reports, and practical tools when you need a clear answer.
 - **Applied** – Ongoing monitoring and decision support across a training phase or season.
@@ -59,8 +70,8 @@ In one large-group hockey environment, a testing system supporting **20+ teams a
 
 [Compare service options](/services/){: .btn .btn--primary }
 
-## Need Clearer Direction From Your Performance Data?
+## Ready to Make the Next Decision Clearer?
 
-Share your current challenge, timeline, and desired outcome to identify the most useful next step.
+Share your goals, current challenge, and timeline to identify the most useful next step for you or your athletes.
 
-[Request a Performance Consult](/contact/){: .btn .btn--primary }
+[Discuss Your Performance Goals](/contact/){: .btn .btn--primary }
