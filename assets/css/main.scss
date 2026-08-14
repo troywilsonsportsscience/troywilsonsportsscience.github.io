@@ -4,47 +4,24 @@
 @import "minimal-mistakes/skins/neon";
 @import "minimal-mistakes";
 
-.page__hero--overlay .page__title {
-  font-size: 2.8rem !important;
-  line-height: 1.2 !important;
-}
+/* ========================================================================== */
+/* Hero */
+/* ========================================================================== */
 
-.page__hero--overlay .page__lead {
-  max-width: 100% !important;
-  width: 100% !important;
-  text-align: center !important;
-  padding: 0 2rem !important;
-  font-size: 1.6rem !important;
-  line-height: 1.3 !important;
-  margin-top: 0.3rem !important;   /* tighten spacing */
-}
-
-.page__hero--overlay .btn {
-  font-size: 1.1rem !important;
-  padding: 0.8rem 1.6rem !important;
-}
-
-.footer-cta {
-  text-align: center;
-  padding: 1.5rem 0;
-}
-
-/* FINAL OPTION 2: Subtle red gradient on hero */
 .page__hero--overlay {
   position: relative;
   overflow: hidden;
 }
 
 .page__hero--overlay::after {
-  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
+  z-index: 2;
   width: 100%;
   height: 28%;
   pointer-events: none;
-  z-index: 2; /* must be above inline background-image */
-
+  content: "";
   background: linear-gradient(
     to top,
     rgba(255, 0, 0, 0.28),
@@ -52,110 +29,98 @@
   );
 }
 
-/* hero text must sit ABOVE pseudo-element */
 .page__hero--overlay .wrapper,
 .page__hero--overlay .wrap {
   position: relative;
   z-index: 3;
 }
 
-/* ---------------------------------------------
-   Balanced spacing for Projects page
-   --------------------------------------------- */
-
-/* Stronger selector for project section headings */
-.page__content .page__content h3,
-.page__content h3 {
-  margin-top: 2.4rem !important;
+.page__hero--overlay .page__title {
+  font-size: 2.8rem;
+  line-height: 1.2;
 }
 
-/* Space below first line after heading */
-.page__content h3 + p,
-.page__content h3 + div {
-  margin-top: 0.6rem !important;
+.page__hero--overlay .page__lead {
+  width: 100%;
+  max-width: 100%;
+  padding: 0 2rem;
+  margin-top: 0.3rem;
+  font-size: 1.6rem;
+  line-height: 1.3;
+  text-align: center;
 }
 
-/* Spacing between Purpose / Approach / Outcome blocks */
-.page__content strong {
-  display: block;
-  margin-top: 0.9rem !important;
-  margin-bottom: 0.1rem !important;
+.page__hero--overlay .btn {
+  padding: 0.8rem 1.6rem;
+  font-size: 1.1rem;
 }
 
-/* Increase line height slightly for readability */
-.page__content p {
-  line-height: 1.55 !important;
-}
+/* ========================================================================== */
+/* Content typography and spacing */
+/* ========================================================================== */
 
-/* Add light spacing between project sections */
-.page__content hr {
-  margin: 2.4rem 0 !important;
-}
-
-/* Extra spacing between hr divider and next heading */
-.page__content hr + h3 {
-  margin-top: 2.6rem !important;
-}
-
-/* ------------------------------------------------------
-   GLOBAL VISUAL CONSISTENCY — TYPOGRAPHY + SPACING
-   Applies to all standard content pages
---------------------------------------------------------- */
-
-/* Headings consistency (H2/H3 used on most pages) */
 .page__content h2 {
-  margin-top: 2.6rem !important;
-  margin-bottom: 1.2rem !important;
+  margin-top: 2.6rem;
+  margin-bottom: 1.2rem;
 }
 
 .page__content h3 {
-  margin-top: 2.2rem !important;
-  margin-bottom: 0.8rem !important;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Paragraph consistency */
 .page__content p {
-  font-size: 1.05rem !important;
-  line-height: 1.55 !important;
-  margin-bottom: 1.2rem !important;
+  margin-bottom: 1.2rem;
+  font-size: 1.05rem;
+  line-height: 1.55;
 }
 
-/* Bullet list spacing */
 .page__content ul,
 .page__content ol {
-  font-size: 1.05rem !important;
-  line-height: 1.55 !important;
-  margin-bottom: 1.4rem !important;
-  padding-left: 1.25rem !important;
+  padding-left: 1.25rem;
+  margin-bottom: 1.4rem;
+  font-size: 1.05rem;
+  line-height: 1.55;
 }
 
 .page__content li {
-  margin-bottom: 0.4rem !important;
+  margin-bottom: 0.4rem;
 }
 
-/* HR spacing (used on Projects + Services) */
 .page__content hr {
-  margin: 2.4rem 0 !important;
+  margin: 2.4rem 0;
 }
 
-/* Tighten space between heading and first paragraph/list */
+.page__content hr + h3 {
+  margin-top: 2.6rem;
+}
+
 .page__content h2 + p,
 .page__content h3 + p,
 .page__content h2 + ul,
 .page__content h3 + ul {
-  margin-top: 0.4rem !important;
+  margin-top: 0.4rem;
 }
 
-/* Consistency for strong labels (Purpose, Approach, Outcome) */
-.page__content strong {
-  display: block;
-  margin-top: 0.9rem !important;
-  margin-bottom: 0.1rem !important;
+.page__content h3 + div {
+  margin-top: 0.6rem;
 }
 
-/* FORCE readable select field (works across browsers) */
+/* ========================================================================== */
+/* Forms */
+/* ========================================================================== */
+
 .page__content form select {
-  background-color: #020617 !important;
-  color: #f9fafb !important;
-  border: 1px solid #475569 !important;
+  color: #f9fafb;
+  background-color: #020617;
+  border: 1px solid #475569;
+}
+
+/* ========================================================================== */
+/* Footer */
+/* ========================================================================== */
+
+.footer-cta {
+  padding: 1.5rem 0;
+  text-align: center;
 }
